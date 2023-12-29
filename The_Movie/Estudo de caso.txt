@@ -1,3 +1,6 @@
 Estudo de caso de banco de dados:
 
-The Movie
+Código SQL, gerando tabelas, e atribuindo tabelas.
+Programa usado SQL Express 2019.
+
+Nome do projeto : The Movie :
